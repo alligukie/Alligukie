@@ -43,7 +43,7 @@
 💬 with replications of econometrics models.
 📫 Also, there are scripts using database of ENAHO and ENDES.
 
-## About :sunglasses:
+## About me:sunglasses:
 Estudiante de Economía | PUCP | 8vo ciclo | Programas Stata, R y Python
 
 ## My Vlues :dancers:
