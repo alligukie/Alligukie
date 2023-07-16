@@ -46,10 +46,13 @@
 ## About :sunglasses:
 Estudiante de Economía | PUCP | 8vo ciclo | Programas Stata, R y Python
 
-## Communities :dancers:
-- Contributer at [Student Code-in](https://scodein.tech/) ( An Open Source organization.)
-- Contributer at [PClub Summer Of Code](http://pclubsummerofcode.in/) ( ( An Open Source organization.)
-- Campus Ambassador at [HackerEarth](https://www.hackerearth.com/challenges/)
+## My Vlues :dancers:
+-Integrity
+-Respect
+-Responsibility
+-Fairness
+-Empathy
+-Solidarity
 
 ## Technologies :fire:
 - Data Analysis with **Python**.
