@@ -11,9 +11,9 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about the latest economic trends in Peru, fiscal policies, and trade dynamics in the region.
 
-- 📫 How to reach me: You can reach me via email at economista_peruano@example.com or connect with me on LinkedIn.
+- 📫 How to reach me: You can reach me via email at huaman.allison@pucp.edu.pe or connect with me on LinkedIn.
 
-- 😄 Pronouns: he/him
+- 😄 Pronouns: she/her
 
 - ⚡ Fun fact: In my free time, I enjoy exploring Peruvian cuisine and hiking in the beautiful Andean mountains.
 -->
