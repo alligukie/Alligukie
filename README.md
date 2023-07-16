@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
 - 🔭 I’m currently working on economic research projects focusing on analyzing the impact of government policies on income inequality in Peru.
 
 - 🌱 I’m currently learning advanced econometric techniques to better model and interpret economic data.
