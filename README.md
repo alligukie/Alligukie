@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact: In my free time, I enjoy exploring Peruvian cuisine and hiking in the beautiful Andean mountains.
 -->
- # <a href="https://www.linkedin.com/in/ashwanisng/">Ashwani Kumar Singh</a> :smiley:
+ # <a href="https://www.linkedin.com/in/Alligukie/">Allison HuamanSingh</a> :smiley:
  
  <a href="https://twitter.com/ashwanisng">
   <img align="left" alt="Ashwani's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
